@@ -2,7 +2,8 @@
 🌱 I’m currently learning C++ , DSA , JAVA.
 💬 Ask me about technologies.
 📫 How to reach me: Twitter- @_Miss__Fire_
-                    LinkedIn- nancy-solanki-912a331a6
+                    
+                    
 <!--
 **nancysolanki/nancysolanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
