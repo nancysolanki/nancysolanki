@@ -1,8 +1,7 @@
-### Hi there 👋
+### How you doin? 👋
 🌱 Into C++ , DSA , JAVA.
 💬 Ask me about technologies.
-📫 How to reach me: Twitter- @_Miss__Fire_ .
-                    
+😄 Pronouns: She/Her.                  
                     
 <!--
 **nancysolanki/nancysolanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
