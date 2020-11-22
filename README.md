@@ -1,4 +1,4 @@
-### How you doin? 👋
+### How you doin?🤔
 🌱 Into C++ , DSA , JAVA.
 💬 Ask me about technologies.
 😄 Pronouns: She/Her.                  
