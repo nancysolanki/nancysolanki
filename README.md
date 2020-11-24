@@ -1,7 +1,8 @@
 ### How you doin?🤔
 🌱 Into C++ , DSA , JAVA.
 💬 Ask me about technologies.
-😄 Pronouns: She/Her.                  
+😄 Pronouns: She/Her.  
+All I do is finding logic ✔
                   
 <!--
 **nancysolanki/nancysolanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
