@@ -1,7 +1,7 @@
 ### How you doin?🤔
 🌱 Into C++ , DSA , JAVA.
 💬 Ask me about technologies.
-😄 Pronouns: She/Her. . 
+😄 Pronouns: She/Her. 
 All I do is find logic ✔
                   
 <!--
