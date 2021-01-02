@@ -1,6 +1,6 @@
 ### How you doin?🤔
 🌱 Into C++ , DSA , JAVA.
-💬 Ask me about technologies.
+💬 Ask me about technologies and memes.
 😄 Pronouns: She/Her. 
 All I do is find logic ✔
                   
