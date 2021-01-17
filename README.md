@@ -1,5 +1,5 @@
 ### How you doin?🤔
-🌱 Into C++ , DSA , PYTHON
+🌱 Into C++ , DSA AND PYTHON
 💬 Ask me about technologies and memes.
 😄 Pronouns: She/Her. 
 All I do is find logic ✔
