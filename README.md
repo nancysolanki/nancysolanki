@@ -2,7 +2,7 @@
 🌱 Into C++ , DSA AND PYTHON
 💬 Ask me about technologies and memes.
 😄 Pronouns: She/Her. 
-All I do is find logic 
+All I do is find logic .
                   
 <!--
 **nancysolanki/nancysolanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
