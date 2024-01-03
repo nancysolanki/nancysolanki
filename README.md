@@ -1,8 +1,6 @@
-### How you doin?🤔
-🌱 Into C++ , DSA AND PYTHON
-💬 Ask me about technologies and memes.
-😄 Pronouns: She/Her. 
-All I do is find logic .
+### I wish I was not too lazy to make a cool Readme file
+
+### All I do is find logic .
                   
 <!--
 **nancysolanki/nancysolanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
