@@ -1,4 +1,4 @@
-### I wish I was not too lazy to make a cool Readme file
+## I wish I was not too lazy to make a cool Readme file
 
 ### All I do is find logic .
                   
