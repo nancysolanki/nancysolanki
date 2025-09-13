@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Nancy Solanki
 
-💻 **Software Engineer @ Microsoft** | ☁️ **AI and Web Develpoment ** | 🎥 **Tech YouTuber (DSA, Projects, System Design)**  
+💻 **Software Engineer @ Microsoft** | ☁️ **AI and Web Develpoment** | 🎥 **Tech YouTuber (DSA, Projects, System Design)**  
 
 ---
 
