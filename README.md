@@ -45,7 +45,7 @@
 
 ## 🎥 Find Me Online  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nancy-solanki/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nancy-solanki/) 
 - 🎥 [YouTube (DSA & Projects)](https://www.youtube.com/@TheCatalystGirl)  
 - 🐦 [Twitter](https://x.com/catalyst_girl)  
 
